@@ -44,7 +44,8 @@
 ## 🧠 About Me
 
 - 🤖 **ML Enthusiast** — NLP pipelines, churn prediction, sentiment analysis & model evaluation  
-- 💻 Full-stack developer focused on **Java (Spring Boot), React, .NET & Go** - ☁️ **DevOps Learner** — Docker, CI/CD, GitHub Actions, Azure & AWS  
+- 💻 Full-stack developer focused on **Java (Spring Boot), React, .NET & Go**
+- ☁️ **DevOps Learner** — Docker, CI/CD, GitHub Actions, Azure & AWS  
 - 🧪 Experienced with **Selenium & TestNG** for automated UI testing  
 - 🎓 **CS Undergraduate @ SLIIT**
 - 🚀 Always learning. Always shipping. One commit at a time.
