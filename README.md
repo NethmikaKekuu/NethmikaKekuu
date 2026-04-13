@@ -97,23 +97,10 @@
 
 - 🥇 **Top 10 Finalist — SLIIT Mini Hackathon 2025**
 - 🧩 **Finalist — SLIIT Algothon 2025**
-- 🎓 **Dean's List Award** — Outstanding Academic Performance @ SLIIT
 
 ---
 
-## 📜 Certifications
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-Intermediate-1A3A5C?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-Intermediate-0A1628?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Developer-1A3A5C?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-Microsoft-0A1628?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Essentials%201-1A3A5C?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/IoT-Introduction-0A1628?style=flat-square&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-Beginners-1A3A5C?style=flat-square&logo=docker&logoColor=white" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
